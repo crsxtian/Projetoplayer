@@ -1,2 +1,2 @@
 # Projetoplayer
-Player simples de música.
+Player de música.
